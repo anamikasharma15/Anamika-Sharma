@@ -39,7 +39,8 @@ const Footer = () => {
       <input type="email" name="user_email" className="form-control" />
       <label>Message</label>
       <textarea name="message" />
-      <input type="submit" value="Send" className="form-control" />
+      <Button style={{width:'100%',marginBottom:'20px'}} variant="primary">SUBMIT</Button>
+      {/* <input type="submit" value="Send" className="form-control" /> */}
     </form>
                    
             {/* <Form onSubmit={setEmail}>

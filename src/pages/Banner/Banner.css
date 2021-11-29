@@ -1,0 +1,9 @@
+.banner{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(rgba(66, 63, 63, 0.6),rgba(0,0,0,0.6)),
+    url('../../images/cover.jpg');
+    background-attachment: fixed;
+    height: 110vh;
+    
+}

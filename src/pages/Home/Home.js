@@ -1,10 +1,10 @@
 import React from 'react';
 import About from '../About/About';
 import Banner from '../Banner/Banner';
-// import Project from '../../../Project/Project';
-// import Footer from '../Footer/Footer';
+import Projects from '../Projects/Projects';
 import Header from '../Header/Header';
  import MySkills from '../MySkills/MySkills';
+import Footer from '../Footer/Footer';
 // import Service from '../Service/Service';
 
 const Home = () => {
@@ -15,8 +15,8 @@ const Home = () => {
              <About></About>
             {/* <Service></Service> */}
              <MySkills></MySkills>
-            {/* <Project></Project> */}
-            {/* <Footer></Footer> */}
+             <Projects></Projects>
+             <Footer></Footer> 
         </div>
     );
 };

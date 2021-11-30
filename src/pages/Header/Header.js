@@ -14,8 +14,9 @@ const Header = () => {
     <Nav>
       <a style={{textDecoration:'none',fontSize:'18px',color:'white',marginRight:'20px',fontWeight:'bold'}}  href='#home'>Home</a>
       <a style={{textDecoration:'none',fontSize:'18px',color:'white',marginRight:'20px',fontWeight:'bold'}} href='#about'>About</a>
-      <a style={{textDecoration:'none',fontSize:'18px',color:'white',marginRight:'20px',fontWeight:'bold'}} href='#service'>Service</a>
       <a style={{textDecoration:'none',fontSize:'18px',color:'white',marginRight:'20px',fontWeight:'bold'}} href='#project'>Project</a>
+      <a style={{textDecoration:'none',fontSize:'18px',color:'white',marginRight:'20px',fontWeight:'bold'}} href='#service'>Service</a>
+      <a style={{textDecoration:'none',fontSize:'18px',color:'white',marginRight:'20px',fontWeight:'bold'}} href='/blogs'>Blogs</a>
       <a href='#contact' style={{textDecoration:'none',fontSize:'18px',color:'white',marginRight:'20px',fontWeight:'bold'}}>Contact</a>
     </Nav>
     

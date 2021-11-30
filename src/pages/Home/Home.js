@@ -5,18 +5,42 @@ import Projects from '../Projects/Projects';
 import Header from '../Header/Header';
  import MySkills from '../MySkills/MySkills';
 import Footer from '../Footer/Footer';
+// import Particles from 'react-particles-js';
+import Service from '../Service/Service';
+import Blogs from '../../Blogs/Blogs';
 // import Service from '../Service/Service';
 
 const Home = () => {
     return (
-        <div>
+        <div className="home"  style={{backgroundColor:'rgb(152, 152, 158)'}}>
+            {/* <Particles
+    params={{
+	    "particles": {
+	        "number": {
+	            "value": 50
+	        },
+	        "size": {
+	            "value": 3
+	        }
+	    },
+	    "interactivity": {
+	        "events": {
+	            "onhover": {
+	                "enable": true,
+	                "mode": "repulse"
+	            }
+	        }
+	    }
+	}} /> */}
             <Header></Header>
             <Banner></Banner>
              <About></About>
-            {/* <Service></Service> */}
+             <Service></Service>
              <MySkills></MySkills>
              <Projects></Projects>
-             <Footer></Footer> 
+			 <Blogs></Blogs> 
+             <Footer></Footer>
+			 
         </div>
     );
 };

@@ -1,11 +1,11 @@
 import React from 'react';
 import { Container, Image,Button } from 'react-bootstrap';
 import Fade from 'react-reveal/Fade';
-import Anu from '../../images/anu.jpg'
+import Anu from '../../images/woman2.jpg'
 const About = () => {
     return (
         <div id='about'>
-           <h3 className="text-center mt-5" style={{fontSize:"30px",fontWeight:'bold', fontFamily:'cursive'}}>Little Stroy <span style={{fontSize:"30px",fontWeight:'bold',color:'#002db3'}}>About Me</span></h3>
+           <h3 className="text-center  mt-5" style={{fontSize:"30px",fontWeight:'bold', fontFamily:'cursive'}}>Little Stroy <span style={{fontSize:"30px",fontWeight:'bold',color:'#002db3'}}>About Me</span></h3>
 
          <Container style={{marginTop:''}}>
          <div className="row mt-5">
@@ -18,9 +18,9 @@ const About = () => {
                 <Fade right>
                 <h4>A Story Of Anamika Sharma</h4>
                 <h3>Who I am</h3>
-                   <p className="mt-5 text-muted">  Hello, I am a professional junior full-stack developer(MERN). I have almost 1 years of experience in this sectionI am an enthusiastic Frontend developer with knowing some framework for the frontend and the backend. I know Basic PHP and MySQL but basically a MERN developer.</p> <br/>
+                   <p className="mt-5 text-white">  Hello, I am a professional junior full-stack developer(MERN). I have almost 1 years of experience in this sectionI am an enthusiastic Frontend developer with knowing some framework for the frontend and the backend. I know Basic PHP and MySQL but basically a MERN developer.</p> <br/>
 
-                   <p className="text-muted">
+                   <p className="text-white">
                    Hello, I am a professional junior full-stack developer(MERN).  My professional skills are HTML, CSS, Javascript, Bootstrap, Material UI, Tailwind CSS, React JS, Node JS, Express JS, MongoDB, Firebase & PHP,Mysql. I complete 10+ project .
 
 I have completed a long training form Programming-hero Institute. I am excited to be at the deployment phase of my new career as a web developer. Currently, I am looking for a full-time job or internship.

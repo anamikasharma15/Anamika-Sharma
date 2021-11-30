@@ -11,6 +11,8 @@ const MySkill = () => {
         {type: "UI Material ", level: 75},
         {type: "Javascript", level: 70},
         {type: "React", level: 92},
+        {type: "Firebase", level: 80},
+        {type: "Mongodb", level: 70},
       ];
     return (
         <div>

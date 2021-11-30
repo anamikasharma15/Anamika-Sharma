@@ -63,7 +63,7 @@ const Footer = () => {
 
                 </div>
             </Container>
-            <p className="text-center copyright">© Copyright 2021 || Designed By <span className="text-danger">Anamika Sharma</span> || All Rights Reserved</p>
+            <p className="text-center copyright">© Copyright 2021 || Designed By <span className="text-dark">Anamika Sharma</span> || All Rights Reserved</p>
         </div>
     );
 };

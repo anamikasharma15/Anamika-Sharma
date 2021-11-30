@@ -1,7 +1,7 @@
 import React from 'react';
 import { Container, Image,Button } from 'react-bootstrap';
 import Fade from 'react-reveal/Fade';
-import Anu from '../../images/woman2.jpg'
+import Anu from '../../images/anu.jpg'
 const About = () => {
     return (
         <div id='about'>

@@ -8,6 +8,7 @@ import Footer from '../Footer/Footer';
 // import Particles from 'react-particles-js';
 import Service from '../Service/Service';
 import Blogs from '../../Blogs/Blogs';
+import ContactMe from '../ContactMe/ContactMe';
 // import Service from '../Service/Service';
 
 const Home = () => {
@@ -39,6 +40,7 @@ const Home = () => {
              <MySkills></MySkills>
              <Projects></Projects>
 			 <Blogs></Blogs> 
+			<ContactMe></ContactMe>
              <Footer></Footer>
 			 
         </div>

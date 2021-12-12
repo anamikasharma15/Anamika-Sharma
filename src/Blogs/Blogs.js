@@ -2,9 +2,9 @@ import React from 'react';
 
 const Blogs = () => {
     return (
-        <div>
-            <h2 className="text-center  ">My Blogs</h2>
-            <h1 className="text-center text-white ">Blogs coming soon!!!!</h1>
+        <div style={{backgroundColor:'rgb(152, 152, 158)'}}>
+            <h2 className="text-center text-white  ">My Blogs</h2>
+            <h1 className="text-center text-dark ">Blogs coming soon!!!!</h1>
 
         </div>
     );

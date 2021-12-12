@@ -21,7 +21,7 @@ const About = () => {
                    <p className="mt-5 text-white">  Hello, I am a professional junior full-stack developer(MERN). I have almost 1 years of experience in this sectionI am an enthusiastic Frontend developer with knowing some framework for the frontend and the backend. I know Basic PHP and MySQL but basically a MERN developer.</p> <br/>
 
                    <p className="text-white">
-                   Hello, I am a professional junior full-stack developer(MERN).  My professional skills are HTML, CSS, Javascript, Bootstrap, Material UI, Tailwind CSS, React JS, Node JS, Express JS, MongoDB, Firebase & PHP,Mysql. I complete 10+ project .
+                  My professional skills are HTML, CSS, Javascript, Bootstrap, Material UI, Tailwind CSS, React JS, Node JS, Express JS, MongoDB, Firebase & PHP,Mysql. I complete 10+ project .
 
 I have completed a long training form Programming-hero Institute. I am excited to be at the deployment phase of my new career as a web developer. Currently, I am looking for a full-time job or internship.
                    </p>

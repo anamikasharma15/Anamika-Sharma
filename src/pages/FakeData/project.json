@@ -1,0 +1,62 @@
+[
+    {
+        "id":111,
+        "name":"Ana-Car-gerez  ",
+        "tech":" HTML, CSS, Bootstrap, JavaScript, React, Node,Express, MongoDB, Firebase, Heroku",
+        "description":"1.User can order products from website and can seehis/her orders list and details from daehboard 2.admin can manage all users.3.Form to leave a review for the cilents to show hpmepage.4 We provided top and classic bands of car",
+        "github":"https://github.com/anamikasharma15/-Ana-Car-Gerez-Company-cilent",
+        "githubServer":"https://github.com/anamikasharma15/Ana-Car-Gerez-Company-server",
+        "price":7000,
+        "image":"https://i.pinimg.com/736x/2e/27/7a/2e277a0fe7c0b843a0903ab1e4f130f4.jpg"
+
+    },
+    {
+        "id":222,
+        "name":"Melody-Music-School",
+        "tech":"HTML, CSS, bootstrap, JavaScript, React",
+        "description":"1.Experts Instructor 2.Dynamic route parameter added 3.How to play instrunments",
+        "github":"https://github.com/anamikasharma15/Melody-Music-School",
+        "githubServer":"",
+        "price":7000,
+        "image":"https://www.cnet.com/a/img/x436h6ZfSY8aoRgcUVIxkh-9D1A=/940x0/2021/06/21/233d61c4-8184-43a9-bb41-da8791207654/apple-music-iphone-with-headphones-001.jpg"
+
+    },
+    
+    
+    
+    {
+        "id":333,
+        "name":"Donto-Dental-Clinic",
+        "tech":"HTML, CSS, Bootstrap, JavaScript, React,Firebase",
+        "description":"1Patients can make appoinments for his/her specific.Different type of dental care",
+        "github":"https://github.com/anamikasharma15/Donto-Dental-Clinic",
+        "githubServer":"",
+        "price":7000,
+        "image":"https://images.theconversation.com/files/291043/original/file-20190905-175710-14qf3jv.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=900.0&fit=crop"
+
+    },
+    {
+        "key":"DSCRFAS76",
+        "teach":"",
+        "description":"",
+        "github":"",
+        "githubServer":"",
+        "price":7000,
+        "image":""
+    },
+   
+    {
+        "id":444,
+        "name":"Andaman-Travel-Agency",
+        "tech":"HTML, CSS, Bootstrap, JavaScript, React, Node,Express, MongoDB, Firebase, Heroku",
+        "description":"1.You can enjoy the nature.2.You can know foreign culture.3.3.You can improve your knowledge.4.how to travel across the world.5.Special services of travellers",
+
+        "github":"https://github.com/anamikasharma15/Andaman-Travel-Agency",
+        "githubServer":"https://github.com/anamikasharma15/Andaman-Travel-Agency-server",
+        "price":7000,
+        "image":"https://www.securitymagazine.com/ext/resources/Issues/2021/August/travel-security/SEC0821-Travel-Feat-slide1_900px.jpg?t=1628476452&width=900"
+
+    }
+   
+  
+]

@@ -1,0 +1,40 @@
+.main-project-wrapper {
+    width: 100% !important;
+    background: rgb(67, 67, 83);
+    overflow: hidden;
+  }
+  
+  .inner-Container {
+    min-height: 100vh;
+    width: 95% !important;
+  
+    margin: 30px auto !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(251, 251, 251);
+  }
+  .project-desc {
+    margin-top: 20px;
+  }
+  
+  .project-image {
+    width: 100% !important;
+  }
+  
+  @media screen and (max-width: 576px) {
+    .project-name {
+      padding: 5px 15px !important;
+    }
+    .project-desc {
+      text-align: justify;
+    }
+    .tech {
+      padding: 5px 15px !important;
+    }
+    .github {
+      padding-left: 17px !important;
+      margin-bottom: 10px !important;
+    }
+  }
+  

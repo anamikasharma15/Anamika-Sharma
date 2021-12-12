@@ -1,14 +1,12 @@
 // import logo from './logo.svg';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-// import {
-//   BrowserRouter,
-//   Route
-// } from "react-router-dom";
 import { BrowserRouter as Router, Switch, Route, BrowserRouter, } from "react-router-dom";
 
 import Home from './pages/Home/Home';
 import Blogs from './Blogs/Blogs';
+// import Header from './pages/Header/Header';
+// import Footer from './pages/Footer/Footer'
 // import ParticleBack from './particleBack/particleBack';
 // import Particles from 'react-particles-js';
 
@@ -41,6 +39,7 @@ function App() {
 
       <BrowserRouter>
       <Router>
+	  {/* <Header></Header> */}
       <Route exact path="/">
             <Home></Home>
           </Route>
@@ -50,6 +49,7 @@ function App() {
            <Route exact path="/blogs">
             <Blogs></Blogs>
           </Route>
+		  {/* <Footer></Footer> */}
 
          {/* <Particles
     params={{
@@ -72,9 +72,7 @@ function App() {
 	}} />
    */}
       
-     {/*  <Route path="expenses" element={} />
-      <Route path="invoices" element={} /> */}
-    {/* </Routes> */}
+     
     </Router>
   </BrowserRouter>
      
